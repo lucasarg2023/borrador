@@ -1,0 +1,14 @@
+todas las carpetas : ls
+
+donde estoy actualmente: pwd
+
+crear carpeta mkdir "nombre"
+
+git config --global user.name "lucasarg2023"
+
+
+
+
+git init	iniciar
+git status       ver los repositorios
+git add .          subir archivo a git
